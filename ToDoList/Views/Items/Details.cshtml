@@ -9,6 +9,14 @@
 <h2>Item Details</h2>
 <hr />
 <h3>@Html.DisplayNameFor(model => model.Description): @Html.DisplayFor(model => model.Description)</h3>
+@if (Model.Completed == false)
+{
+  <h4 style="color:red">Not Completed!</h4>
+}
+@if (Model.Completed == true)
+{
+  <h4 style="color:green">Completed!</h4>
+}
 
 @if(@Model.Categories.Count == 0)
 {

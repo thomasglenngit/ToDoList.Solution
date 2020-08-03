@@ -18,6 +18,9 @@
     @Html.Label("Select category")
     @Html.DropDownList("CategoryId")
 
+    @Html.LabelFor(model => model.Completed)
+    @Html.EditorFor(model => model.Completed)
+
     <input type="submit" value="Save" />
 }
 
