@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 
 namespace ToDoList.Models
@@ -11,6 +12,7 @@ namespace ToDoList.Models
     public int ItemId { get; set; }
     public string Description { get; set; }
     public bool Completed { get; set; }
+    public DateTime DueDate { get; set; }
     public ICollection<CategoryItem> Categories { get; }
   }
 }
