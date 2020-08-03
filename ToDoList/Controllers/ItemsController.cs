@@ -18,8 +18,7 @@ namespace ToDoList.Controllers
 
     public ActionResult Index()
     {
-      IEnumerable<Item> items = _db.Items.OrderBy(item => item.DueDate).ToList();
-      return View(items);
+      return View(_db.Items.OrderBy(item => item.DueDate).ToList());
     }
 
     public ActionResult Create()
