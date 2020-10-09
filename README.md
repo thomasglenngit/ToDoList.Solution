@@ -89,7 +89,10 @@ _** as of:** _
 
 # **❤️Contributors**
 
-| [<img src='https://coding-assets.s3-us-west-2.amazonaws.com/linked-in-images/johnnils-olson.jpeg' width='160px;'/><br /><sub><b>JohnNils Olson</b></sub>](https://www.linkedin.com/in/johnnilsolson/)<br />
+[<img src='https://coding-assets.s3-us-west-2.amazonaws.com/linked-in-images/johnnils-olson.jpeg' width='160px;'/><br /><sub><b>JohnNils Olson</b></sub>](https://www.linkedin.com/in/johnnilsolson/)<br />
+
+ [<img src='https://coding-assets.s3-us-west-2.amazonaws.com/linked-in-images/thomas-glenn.jpeg' width='160px;'/><br /><sub><b>Thomas Glenn</b></sub>](https://www.linkedin.com/in/glennergy/)<br />
+
 
 <br>
 
